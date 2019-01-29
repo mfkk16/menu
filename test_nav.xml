@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/opt1"
+        android:title="Setting 1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/opt2"
+        android:title="Setting 2" />
+    <item
+        android:id="@+id/opt3"
+        android:title="Setting 3" />
+    <item
+        android:id="@+id/opt4"
+        android:title="Setting 4" />
+    <item
+        android:id="@+id/opt5"
+        android:title="Setting 5" />
+    <item
+        android:id="@+id/opt6"
+        android:title="Setting 6" />
+</menu>
